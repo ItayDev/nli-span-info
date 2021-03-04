@@ -1,0 +1,6 @@
+pytorch
+transformers
+datasets
+cudatoolkit=11.0
+matplotlib
+numpy

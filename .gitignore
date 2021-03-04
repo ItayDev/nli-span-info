@@ -1,0 +1,5 @@
+venv
+cache
+snapshots
+.idea
+*__pycache__*
